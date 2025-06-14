@@ -1,4 +1,4 @@
-# 💼 Sama's Portfolio Website
+# 💼 Sachin's Portfolio Website
 
 Welcome to my personal portfolio! I'm Sama, a B.Voc graduate in Software Development, currently mastering the MERN stack. This project showcases my journey as a developer, highlighting my skills in HTML, CSS, and beginner-level JavaScript.
 
